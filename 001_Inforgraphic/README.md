@@ -10,8 +10,8 @@ Bộ **9 prompt thực hành (P01–P09)** giúp chuyển tài liệu, dữ ki�
 
 | Mã | Khi nào dùng? | Bản thực hành | Bản đầy đủ |
 |---|---|---|---|
-| **P01** | Có PDF, muốn tạo ngay infographic | [Mở P01](prompts/P01-ban-ngan-gon.md) | [Chi tiết](prompts/P01-ban-day-du.md) |
-| **P02** | Chưa có ý tưởng, muốn AI đề xuất **3 concept** để chọn | [Mở P02](prompts/P02-ban-ngan-gon.md) | [Chi tiết](prompts/P02-ban-day-du.md) |
+| **P01** | Có PDF, muốn tạo ngay infographic | [Mở P01](prompts/P01-TỪ PDF ĐẾN ẢNH INFOGRAPHIC TRONG MỘT LỆNH.md) | [Chi tiết](prompts/P01-ver2-TỪ PDF ĐẾN ẢNH INFOGRAPHIC TRONG MỘT LỆNH.md) |
+| **P02** | Chưa có ý tưởng, muốn AI đề xuất **3 concept** để chọn | [Mở P02](prompts/P02- AI LÀ CREATIVE DIRECTOR_ ĐỀ XUẤT 3 CONCEPT THIẾT KẾ) | [Chi tiết](prompts/P02-ver2-AI LÀ CREATIVE DIRECTOR_ ĐỀ XUẤT 3 CONCEPT THIẾT KẾ) |
 | **P03** | Có ảnh mẫu; muốn học cách bố trí rồi tạo ảnh **mới** với nội dung của mình | [Mở P03](prompts/P03-ban-ngan-gon.md) | [Chi tiết](prompts/P03-ban-day-du.md) |
 | **P04** | Trình bày các **mốc lịch sử** thành timeline có nguồn | [Mở P04](prompts/P04-ban-ngan-gon.md) | [Chi tiết](prompts/P04-ban-day-du.md) |
 | **P05** | Trực quan hóa **số liệu báo cáo, thống kê, kết quả** | [Mở P05](prompts/P05-ban-ngan-gon.md) | [Chi tiết](prompts/P05-ban-day-du.md) |
