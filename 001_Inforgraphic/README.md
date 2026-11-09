@@ -10,15 +10,15 @@ Bộ **9 prompt thực hành (P01–P09)** giúp chuyển tài liệu, dữ ki�
 
 | Mã | Khi nào dùng? | Bản thực hành | Bản đầy đủ |
 |---|---|---|---|
-| **P01** | Có PDF, muốn tạo ngay infographic | [Mở P01](prompts/P01-TỪ PDF ĐẾN ẢNH INFOGRAPHIC TRONG MỘT LỆNH.md) | [Chi tiết](prompts/P01-ver2-TỪ PDF ĐẾN ẢNH INFOGRAPHIC TRONG MỘT LỆNH.md) |
-| **P02** | Chưa có ý tưởng, muốn AI đề xuất **3 concept** để chọn | [Mở P02](prompts/P02- AI LÀ CREATIVE DIRECTOR_ ĐỀ XUẤT 3 CONCEPT THIẾT KẾ) | [Chi tiết](prompts/P02-ver2-AI LÀ CREATIVE DIRECTOR_ ĐỀ XUẤT 3 CONCEPT THIẾT KẾ) |
-| **P03** | Có ảnh mẫu; muốn học cách bố trí rồi tạo ảnh **mới** với nội dung của mình | [Mở P03](prompts/P03-ban-ngan-gon.md) | [Chi tiết](prompts/P03-ban-day-du.md) |
-| **P04** | Trình bày các **mốc lịch sử** thành timeline có nguồn | [Mở P04](prompts/P04-ban-ngan-gon.md) | [Chi tiết](prompts/P04-ban-day-du.md) |
-| **P05** | Trực quan hóa **số liệu báo cáo, thống kê, kết quả** | [Mở P05](prompts/P05-ban-ngan-gon.md) | [Chi tiết](prompts/P05-ban-day-du.md) |
-| **P06** | Tạo **poster cổ động/kỷ niệm**: một thông điệp, ít chữ, hình ảnh nổi bật | [Mở P06](prompts/P06-ban-ngan-gon.md) | [Chi tiết](prompts/P06-ban-day-du.md) |
-| **P07** | Ảnh gần đạt; cần **sửa đúng chữ, màu hoặc chi tiết cụ thể** | [Mở P07](prompts/P07-ban-ngan-gon.md) | [Chi tiết](prompts/P07-ban-day-du.md) |
-| **P08** | Chuyển một ảnh sang **4:5, 1:1, 9:16 hoặc 16:9** | [Mở P08](prompts/P08-ban-ngan-gon.md) | [Chi tiết](prompts/P08-ban-day-du.md) |
-| **P09** | Kiểm tra chữ, dữ kiện, hình ảnh, nguồn trước khi trình duyệt | [Mở P09](prompts/P09-ban-ngan-gon.md) | [Chi tiết](prompts/P09-ban-day-du.md) |
+| **P01** | Có PDF, muốn tạo ngay infographic | [Mở P01](prompts/P01-TỪ%20PDF%20ĐẾN%20ẢNH%20INFOGRAPHIC%20TRONG%20MỘT%20LỆNH.md) | [Chi tiết](prompts/P01-ver2-TỪ%20PDF%20ĐẾN%20ẢNH%20INFOGRAPHIC%20TRONG%20MỘT%20LỆNH.md) |
+| **P02** | Chưa có ý tưởng, muốn AI đề xuất **3 concept** để chọn | [Mở P02](prompts/P02-%20AI%20LÀ%20CREATIVE%20DIRECTOR_%20ĐỀ%20XUẤT%203%20CONCEPT%20THIẾT%20KẾ.md) | [Chi tiết](prompts/P02-ver2-%20AI%20LÀ%20CREATIVE%20DIRECTOR_%20ĐỀ%20XUẤT%203%20CONCEPT%20THIẾT%20KẾ.md) |
+| **P03** | Có ảnh mẫu; muốn học cách bố trí rồi tạo ảnh **mới** với nội dung của mình | [Mở P03](prompts/P03-THIẾT%20KẾ%20NGƯỢC%20TỪ%20ẢNH%20THAM%20KHẢO.md) | [Chi tiết](prompts/P03-ver2-THIẾT%20KẾ%20NGƯỢC%20TỪ%20ẢNH%20THAM%20KHẢO.md) |
+| **P04** | Trình bày các **mốc lịch sử** thành timeline có nguồn | [Mở P04](prompts/P04-TẠO%20INFOGRAPHIC%20TIMELINE%20LỊCH%20SỬ%20CÓ%20NGUỒN%20.md) | [Chi tiết](prompts/P04-ver2-TẠO%20INFOGRAPHIC%20TIMELINE%20LỊCH%20SỬ%20CÓ%20NGUỒN.md) |
+| **P05** | Trực quan hóa **số liệu báo cáo, thống kê, kết quả** | [Mở P05](prompts/P05-Tạo%20infographic%20số%20liệu%20có%20nguồn.md) | [Chi tiết](prompts/P05-ver2-Tạo%20infographic%20số%20liệu%20có%20nguồn%20.md) |
+| **P06** | Tạo **poster cổ động/kỷ niệm**: một thông điệp, ít chữ, hình ảnh nổi bật | [Mở P06](prompts/P06-Tạo%20poster%20cổ%20động%20_%20kỷ%20niệm%20bằng%20AI.md) | [Chi tiết](prompts/P06-ver2-%20Tạo%20poster%20cổ%20động%20_%20kỷ%20niệm%20bằng%20AI.md) |
+| **P07** | Ảnh gần đạt; cần **sửa đúng chữ, màu hoặc chi tiết cụ thể** | [Mở P07](prompts/P07-CHỈNH%20SỬA%20ẢNH%20ĐÃ%20TẠO%20THEO%20YÊU%20CẦU.md) | [Chi tiết](prompts/P07-ver2%20-%20CHỈNH%20SỬA%20ẢNH%20ĐÃ%20TẠO%20THEO%20YÊU%20CẦU.md) |
+| **P08** | Chuyển một ảnh sang **4:5, 1:1, 9:16 hoặc 16:9** | [Mở P08](prompts/P08-%20TẠO%20CÁC%20TỶ%20LỆ%20ẢNH%20TỪ%20BẢN%20GỐC.md) | [Chi tiết](prompts/P08-ver2-%20TẠO%20CÁC%20TỶ%20LỆ%20ẢNH%20TỪ%20BẢN%20GỐC.md) |
+| **P09** | Kiểm tra chữ, dữ kiện, hình ảnh, nguồn trước khi trình duyệt | [Mở P09](prompts/P09-KIỂM%20TRA%20INFOGRAPHIC_POSTER%20CUỐI%20TRƯỚC%20KHI%20TRÌNH%20DUYỆT.md) | [Chi tiết](prompts/P09-ver2-KIỂM%20TRA%20INFOGRAPHIC_POSTER%20CUỐI%20TRƯỚC%20KHI%20TRÌNH%20DUYỆT.md) |
 
 **Hai mức sử dụng:** Bản **ngắn gọn** dành cho học viên sao chép, thực hành ngay; bản **đầy đủ** để hiểu các điều kiện đầu vào, cách kiểm soát chất lượng và tình huống khó.
 
