@@ -2,8 +2,6 @@
 
 Bộ học liệu AITrainTU dành cho cán bộ, chuyên viên biên soạn bài giảng chuyên đề và bài giới thiệu, quán triệt nghị quyết. Quy trình ưu tiên tạo bản trình chiếu hoàn chỉnh, giảm biên tập thủ công và giữ bước kiểm tra với tài liệu gốc.
 
-**Phiên bản 2.0 — 09/11/2026.** Bổ sung đề cương Word, chế độ giữ đầy đủ hệ thống đề mục và lựa chọn tông màu phù hợp nội dung công tác Đảng.
-
 ## Bắt đầu từ đâu?
 
 1. Chuẩn bị tài liệu được phép xử lý trên nền tảng AI, tên chủ đề, người nghe và thời lượng.
@@ -58,15 +56,8 @@ Các bảng màu A/B là **gợi ý thiết kế**, không phải quy chuẩn nh
 
 - [Slide giảng dạy, phiên bản 2.0](slides/AITrainTU_Soan_slide_bai_giang_voi_AI_v2.pptx)
 - [Bài thực hành và tiêu chí kiểm tra](BAI_THUC_HANH.md)
-- [Lịch sử cập nhật](CHANGELOG.md)
 
 Slide có ghi chú thuyết trình và prompt đầy đủ. Để sao chép prompt, ưu tiên các file Markdown trong thư mục `prompts` vì dễ đọc và cập nhật hơn phần Notes.
-
-## Đưa lên kho Git
-
-Giải nén và chép nguyên thư mục `02-bien-tap-slide` vào thư mục gốc của kho. Các liên kết trong README dùng đường dẫn tương đối. Nếu thư mục đã tồn tại, đối chiếu trước khi chép đè để giữ các nội dung riêng.
-
-Không đưa tài liệu nội bộ hạn chế truy cập, dữ liệu cá nhân hoặc tài liệu không được phép công khai lên kho Git công khai. Bộ học liệu này không kèm nghị quyết thực tế hoặc tài nguyên cờ/biểu trưng.
 
 ## Trách nhiệm kiểm tra
 
