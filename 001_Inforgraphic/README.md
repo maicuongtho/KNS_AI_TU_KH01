@@ -22,6 +22,24 @@ Bộ **9 prompt thực hành (P01–P09)** giúp chuyển tài liệu, dữ ki�
 
 **Hai mức sử dụng:** Bản **ngắn gọn** dành cho học viên sao chép, thực hành ngay; bản **đầy đủ** để hiểu các điều kiện đầu vào, cách kiểm soát chất lượng và tình huống khó.
 
+
+### P03 mở rộng — Thiết kế ngược từ ảnh tham khảo
+
+Ngoài bản P03 dùng để **phân tích ảnh mẫu rồi tạo ảnh mới trong một lần yêu cầu**, học viên có thể chọn riêng từng thao tác dưới đây. **Không cần thực hiện cả bốn**; chỉ chọn việc mình cần.
+
+| Mục đích | Prompt sử dụng | Kết quả |
+|---|---|---|
+| **Phân tích bố cục** của ảnh mẫu | [P03 – Bước 1: Trích xuất bố cục](prompts/P03-Buoc-1-Phan-tich-va-trich-xuat-bo-cuc.md) | Bảng phân tích các vùng, số cột, thứ bậc thị giác và sơ đồ wireframe; **chưa tạo ảnh** |
+| **Tạo ảnh mới** theo bố cục đã phân tích | [P03 – Bước 2: Áp dụng bố cục](prompts/P03-Buoc-2-Ap-dung-bo-cuc-de-tao-anh-moi.md) | Ảnh mới sử dụng **dữ kiện từ tài liệu của mình** |
+| **Lấy nền sạch** từ ảnh mẫu | [P03 – Lấy ảnh nền](prompts/P03-Prompt_lay_anh_nen.md) | Ảnh nền không có chữ, số, icon hay hình minh họa nội dung |
+| **Giữ nền và hình minh họa** | [P03 – Lấy nền và biểu tượng](prompts/P03-Prompt_lay_nen_va_bieu_tuong.md) | Ảnh không chữ, nhưng giữ nền, icon phổ thông và hình minh họa phù hợp |
+
+**Cách chọn nhanh:** Chỉ muốn *hiểu bố cục* → **Bước 1**. Muốn *thiết kế lại với dữ liệu mới* → **Bước 1 + Bước 2** (hoặc dùng P03 bản ngắn gọn). Muốn *một bản nền trống* → **Lấy ảnh nền**. Muốn *template vẫn có icon, tranh minh họa* → **Lấy nền và biểu tượng**.
+
+> **Lưu ý:** Hai prompt “lấy nền” và “lấy nền + biểu tượng” tạo/chỉnh sửa **ảnh phẳng**, không tự tạo tệp thiết kế có các lớp (layer) tách rời. Các yếu tố từ ảnh mẫu chỉ được tái sử dụng khi có quyền sử dụng phù hợp; tránh chuyển nguyên logo, chân dung, nhận diện hoặc hình độc quyền của mẫu sang sản phẩm mới.
+
+
+
 ## 2. Quy trình thực hành
 
 ```text
