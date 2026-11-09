@@ -73,37 +73,13 @@ CHUẨN BỊ NGUỒN NỘI DUNG / DỮ KIỆN / ẢNH
 
 Trong buổi học, **chỉ cần hoàn thành một sản phẩm đúng và kiểm tra được nguồn**; không bắt buộc sử dụng cả 9 prompt cho một bài.
 
-## 5. Slide và thư mục tài liệu
-
-- [PowerPoint — Bộ slide 16 trang (P01–P09)](slides/Slide_Infographic_Day_du_P01_den_P09.pptx)
-- [Thư mục nguồn trên Google Drive](https://drive.google.com/drive/folders/13PhATbkTt10WLx_XFLlCocZvu__zSNy_) — tài liệu đối chiếu các phiên bản đã chia sẻ.
-
-```text
-thu-vien-prompt-infographic/
-├── README.md
-├── prompts/
-│   ├── P01-ban-ngan-gon.md
-│   ├── P01-ban-day-du.md
-│   ├── ...
-│   ├── P09-ban-ngan-gon.md
-│   └── P09-ban-day-du.md
-└── slides/
-    └── Slide_Infographic_Day_du_P01_den_P09.pptx
-```
-
-Các đường dẫn trong README là **đường dẫn tương đối**: khi tải toàn bộ thư mục lên GitHub với cấu trúc trên, có thể mở prompt trực tiếp bằng cách nhấp liên kết trong bảng.
-
-## 6. Nguyên tắc sử dụng và kiểm tra
+## 5. Nguyên tắc sử dụng và kiểm tra
 
 - **Nguồn đáng tin cậy:** Không tự tạo ngày tháng, sự kiện, số liệu, trích dẫn; giữ đúng từ chỉ mức độ như “ước”, “hơn”, “gần”, cũng như đơn vị và kỳ báo cáo.
 - **Kiểm tra ảnh thực tế:** Đọc lại từng chữ/số xuất hiện trên ảnh, kiểm tỷ lệ biểu đồ và đối chiếu dữ liệu gốc. AI có thể tạo ảnh đẹp nhưng vẫn sai chữ hoặc số.
 - **Sử dụng hình ảnh:** Nếu cần thể hiện chính xác địa danh, chân dung, logo, cờ hoặc biểu trưng, ưu tiên tệp được cung cấp hợp lệ; kiểm tra kết quả không bị biến dạng. Không giới thiệu hình tái hiện bằng AI như ảnh tư liệu lịch sử thật.
 - **An toàn thông tin:** Không đưa lên dịch vụ AI công cộng hoặc kho GitHub công khai tài liệu mật, dữ liệu nội bộ hạn chế, thông tin cá nhân hoặc tài nguyên chưa được phép công bố. Tuân thủ quy định của cơ quan và hệ thống thông tin của Đảng.
 - **Phê duyệt:** Các ảnh mẫu và kết quả AI là **bản nháp**. P09 chỉ hỗ trợ kiểm tra, **không thay thế người biên tập và cấp có thẩm quyền phê duyệt**.
-
-## 7. Cập nhật học liệu
-
-Khi sửa một prompt, nên cập nhật **cả bản ngắn gọn và bản đầy đủ** cùng mã Pxx. Giữ tên tệp ổn định để các liên kết từ README và slide không bị hỏng. Với ảnh/bảng dữ liệu bổ sung, chỉ đưa vào kho khi có quyền chia sẻ.
 
 ---
 
