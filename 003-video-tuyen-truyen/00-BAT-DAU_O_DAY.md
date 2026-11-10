@@ -1,7 +1,9 @@
-# Bắt đầu tại đây
+# Bắt đầu trong 5 phút
 
-**Bạn không cần học hết thư viện.** Mở [README chuyên đề](README.md), chọn việc mình muốn làm và dùng **P03** cho bài đầu tiên.
+**Bạn đã có video/ảnh thô chưa?** Nếu có, hãy bắt đầu bằng [P01 – Phân tích video](01-Prompts/P01-PhanTichVideoTho.md) hoặc [P02 – Rút ngắn video](01-Prompts/P02-RutNganVideo.md).
 
-**3 thao tác:** (1) Sao chép prompt; (2) Điền các ô `[ ]` và gửi nội dung nguồn; (3) Xem sản phẩm, đối chiếu và sửa.
+**Cách học nhanh:** (1) Chọn một công việc; (2) Sao chép prompt và đính kèm video/bản chép lời đã được phép dùng; (3) Thực hiện cắt ghép trong editor; (4) Xuất MP4 và xem lại.
 
-Tài liệu thực hành mẫu [tại đây](../04-du-lieu-mau/README.md). Nội dung trong ví dụ chỉ phục vụ tập huấn, không tự ghi thành thông tin thật.
+**Bài làm đầu tiên:** [TH01 – Dựng video 45–60 giây từ clip tự quay](02-BaiThucHanh/TH01-CatGhepVideoTuQuay.md).
+
+Không cần học cách tạo clip AI trước khi biết cắt, ghép, làm phụ đề và xuất video.
